@@ -1,8 +1,8 @@
-# 7_mistery_fix
-Это – задача-загадка.
+#Purpose of the programm#
 
-У вас есть программа. Она работает неправильно. Её нужно починить.
+Root quadratic equation
 
-WAT?
+#Working with the programm#
 
-На самом деле эта задача посвящена знакомству с таким понятием, как тестирование. Прежде чем пытаться поправить код самой программы, запусти python tests.py. При правках файл tests трогать нельзя.
+To calculate the square of the equation import the file *quadratic_equation.py* and *call get_roots()*. Function takes three position arguments: a, b, c.
+Run *tests.py* to find correct or not correct quadratic_equation.py is worked.
